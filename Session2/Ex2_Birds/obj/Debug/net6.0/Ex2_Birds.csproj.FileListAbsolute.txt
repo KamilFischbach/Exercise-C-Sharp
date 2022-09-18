@@ -1,0 +1,15 @@
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex2_Birds\bin\Debug\net6.0\Ex2_Birds.exe
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex2_Birds\bin\Debug\net6.0\Ex2_Birds.deps.json
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex2_Birds\bin\Debug\net6.0\Ex2_Birds.runtimeconfig.json
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex2_Birds\bin\Debug\net6.0\Ex2_Birds.dll
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex2_Birds\bin\Debug\net6.0\Ex2_Birds.pdb
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex2_Birds\obj\Debug\net6.0\Ex2_Birds.csproj.AssemblyReference.cache
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex2_Birds\obj\Debug\net6.0\Ex2_Birds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex2_Birds\obj\Debug\net6.0\Ex2_Birds.AssemblyInfoInputs.cache
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex2_Birds\obj\Debug\net6.0\Ex2_Birds.AssemblyInfo.cs
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex2_Birds\obj\Debug\net6.0\Ex2_Birds.csproj.CoreCompileInputs.cache
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex2_Birds\obj\Debug\net6.0\Ex2_Birds.dll
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex2_Birds\obj\Debug\net6.0\refint\Ex2_Birds.dll
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex2_Birds\obj\Debug\net6.0\Ex2_Birds.pdb
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex2_Birds\obj\Debug\net6.0\Ex2_Birds.genruntimeconfig.cache
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex2_Birds\obj\Debug\net6.0\ref\Ex2_Birds.dll

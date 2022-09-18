@@ -1,0 +1,15 @@
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex1_Polymorphism\bin\Debug\net6.0\Ex1_Polymorphism.exe
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex1_Polymorphism\bin\Debug\net6.0\Ex1_Polymorphism.deps.json
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex1_Polymorphism\bin\Debug\net6.0\Ex1_Polymorphism.runtimeconfig.json
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex1_Polymorphism\bin\Debug\net6.0\Ex1_Polymorphism.dll
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex1_Polymorphism\bin\Debug\net6.0\Ex1_Polymorphism.pdb
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex1_Polymorphism\obj\Debug\net6.0\Ex1_Polymorphism.csproj.AssemblyReference.cache
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex1_Polymorphism\obj\Debug\net6.0\Ex1_Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex1_Polymorphism\obj\Debug\net6.0\Ex1_Polymorphism.AssemblyInfoInputs.cache
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex1_Polymorphism\obj\Debug\net6.0\Ex1_Polymorphism.AssemblyInfo.cs
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex1_Polymorphism\obj\Debug\net6.0\Ex1_Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex1_Polymorphism\obj\Debug\net6.0\Ex1_Polymorphism.dll
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex1_Polymorphism\obj\Debug\net6.0\refint\Ex1_Polymorphism.dll
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex1_Polymorphism\obj\Debug\net6.0\Ex1_Polymorphism.pdb
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex1_Polymorphism\obj\Debug\net6.0\Ex1_Polymorphism.genruntimeconfig.cache
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex1_Polymorphism\obj\Debug\net6.0\ref\Ex1_Polymorphism.dll

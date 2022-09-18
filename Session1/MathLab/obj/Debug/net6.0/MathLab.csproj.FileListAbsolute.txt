@@ -1,0 +1,15 @@
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session1\MathLab\bin\Debug\net6.0\MathLab.exe
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session1\MathLab\bin\Debug\net6.0\MathLab.deps.json
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session1\MathLab\bin\Debug\net6.0\MathLab.runtimeconfig.json
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session1\MathLab\bin\Debug\net6.0\MathLab.dll
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session1\MathLab\bin\Debug\net6.0\MathLab.pdb
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session1\MathLab\obj\Debug\net6.0\MathLab.csproj.AssemblyReference.cache
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session1\MathLab\obj\Debug\net6.0\MathLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session1\MathLab\obj\Debug\net6.0\MathLab.AssemblyInfoInputs.cache
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session1\MathLab\obj\Debug\net6.0\MathLab.AssemblyInfo.cs
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session1\MathLab\obj\Debug\net6.0\MathLab.csproj.CoreCompileInputs.cache
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session1\MathLab\obj\Debug\net6.0\MathLab.dll
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session1\MathLab\obj\Debug\net6.0\refint\MathLab.dll
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session1\MathLab\obj\Debug\net6.0\MathLab.pdb
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session1\MathLab\obj\Debug\net6.0\MathLab.genruntimeconfig.cache
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session1\MathLab\obj\Debug\net6.0\ref\MathLab.dll

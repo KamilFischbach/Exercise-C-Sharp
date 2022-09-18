@@ -1,0 +1,15 @@
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex3_Car\bin\Debug\net6.0\Ex3_Car.exe
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex3_Car\bin\Debug\net6.0\Ex3_Car.deps.json
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex3_Car\bin\Debug\net6.0\Ex3_Car.runtimeconfig.json
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex3_Car\bin\Debug\net6.0\Ex3_Car.dll
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex3_Car\bin\Debug\net6.0\Ex3_Car.pdb
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex3_Car\obj\Debug\net6.0\Ex3_Car.csproj.AssemblyReference.cache
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex3_Car\obj\Debug\net6.0\Ex3_Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex3_Car\obj\Debug\net6.0\Ex3_Car.AssemblyInfoInputs.cache
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex3_Car\obj\Debug\net6.0\Ex3_Car.AssemblyInfo.cs
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex3_Car\obj\Debug\net6.0\Ex3_Car.csproj.CoreCompileInputs.cache
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex3_Car\obj\Debug\net6.0\Ex3_Car.dll
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex3_Car\obj\Debug\net6.0\refint\Ex3_Car.dll
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex3_Car\obj\Debug\net6.0\Ex3_Car.pdb
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex3_Car\obj\Debug\net6.0\Ex3_Car.genruntimeconfig.cache
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex3_Car\obj\Debug\net6.0\ref\Ex3_Car.dll

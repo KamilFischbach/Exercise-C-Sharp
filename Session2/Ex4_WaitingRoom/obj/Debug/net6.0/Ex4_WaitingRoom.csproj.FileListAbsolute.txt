@@ -1,0 +1,15 @@
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex4_WaitingRoom\bin\Debug\net6.0\Ex4_WaitingRoom.exe
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex4_WaitingRoom\bin\Debug\net6.0\Ex4_WaitingRoom.deps.json
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex4_WaitingRoom\bin\Debug\net6.0\Ex4_WaitingRoom.runtimeconfig.json
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex4_WaitingRoom\bin\Debug\net6.0\Ex4_WaitingRoom.dll
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex4_WaitingRoom\bin\Debug\net6.0\Ex4_WaitingRoom.pdb
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex4_WaitingRoom\obj\Debug\net6.0\Ex4_WaitingRoom.csproj.AssemblyReference.cache
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex4_WaitingRoom\obj\Debug\net6.0\Ex4_WaitingRoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex4_WaitingRoom\obj\Debug\net6.0\Ex4_WaitingRoom.AssemblyInfoInputs.cache
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex4_WaitingRoom\obj\Debug\net6.0\Ex4_WaitingRoom.AssemblyInfo.cs
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex4_WaitingRoom\obj\Debug\net6.0\Ex4_WaitingRoom.csproj.CoreCompileInputs.cache
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex4_WaitingRoom\obj\Debug\net6.0\Ex4_WaitingRoom.dll
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex4_WaitingRoom\obj\Debug\net6.0\refint\Ex4_WaitingRoom.dll
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex4_WaitingRoom\obj\Debug\net6.0\Ex4_WaitingRoom.pdb
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex4_WaitingRoom\obj\Debug\net6.0\Ex4_WaitingRoom.genruntimeconfig.cache
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session2\Ex4_WaitingRoom\obj\Debug\net6.0\ref\Ex4_WaitingRoom.dll

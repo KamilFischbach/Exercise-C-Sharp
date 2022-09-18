@@ -11,6 +11,8 @@ public class WaitingRoom
         currentNumber = 0;
         ticketCount = 0;
         Console.WriteLine("Just making some changes.");
+        Console.WriteLine("Just making some changes. Twice.");
+        
     }
 
     public void RunWaitingRoom()

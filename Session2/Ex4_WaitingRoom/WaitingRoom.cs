@@ -10,6 +10,7 @@ public class WaitingRoom
     {
         currentNumber = 0;
         ticketCount = 0;
+        Console.WriteLine("Just making some changes.");
     }
 
     public void RunWaitingRoom()

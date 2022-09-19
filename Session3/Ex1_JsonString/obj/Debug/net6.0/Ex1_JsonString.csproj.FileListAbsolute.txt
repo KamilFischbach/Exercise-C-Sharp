@@ -1,0 +1,15 @@
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex1_JsonString\bin\Debug\net6.0\Ex1_JsonString.exe
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex1_JsonString\bin\Debug\net6.0\Ex1_JsonString.deps.json
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex1_JsonString\bin\Debug\net6.0\Ex1_JsonString.runtimeconfig.json
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex1_JsonString\bin\Debug\net6.0\Ex1_JsonString.dll
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex1_JsonString\bin\Debug\net6.0\Ex1_JsonString.pdb
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex1_JsonString\obj\Debug\net6.0\Ex1_JsonString.csproj.AssemblyReference.cache
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex1_JsonString\obj\Debug\net6.0\Ex1_JsonString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex1_JsonString\obj\Debug\net6.0\Ex1_JsonString.AssemblyInfoInputs.cache
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex1_JsonString\obj\Debug\net6.0\Ex1_JsonString.AssemblyInfo.cs
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex1_JsonString\obj\Debug\net6.0\Ex1_JsonString.csproj.CoreCompileInputs.cache
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex1_JsonString\obj\Debug\net6.0\Ex1_JsonString.dll
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex1_JsonString\obj\Debug\net6.0\refint\Ex1_JsonString.dll
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex1_JsonString\obj\Debug\net6.0\Ex1_JsonString.pdb
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex1_JsonString\obj\Debug\net6.0\Ex1_JsonString.genruntimeconfig.cache
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex1_JsonString\obj\Debug\net6.0\ref\Ex1_JsonString.dll

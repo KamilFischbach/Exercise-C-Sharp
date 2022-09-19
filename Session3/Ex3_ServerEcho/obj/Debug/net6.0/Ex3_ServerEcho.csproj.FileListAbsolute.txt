@@ -1,0 +1,15 @@
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex3_ServerEcho\bin\Debug\net6.0\Ex3_ServerEcho.exe
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex3_ServerEcho\bin\Debug\net6.0\Ex3_ServerEcho.deps.json
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex3_ServerEcho\bin\Debug\net6.0\Ex3_ServerEcho.runtimeconfig.json
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex3_ServerEcho\bin\Debug\net6.0\Ex3_ServerEcho.dll
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex3_ServerEcho\bin\Debug\net6.0\Ex3_ServerEcho.pdb
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex3_ServerEcho\obj\Debug\net6.0\Ex3_ServerEcho.csproj.AssemblyReference.cache
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex3_ServerEcho\obj\Debug\net6.0\Ex3_ServerEcho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex3_ServerEcho\obj\Debug\net6.0\Ex3_ServerEcho.AssemblyInfoInputs.cache
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex3_ServerEcho\obj\Debug\net6.0\Ex3_ServerEcho.AssemblyInfo.cs
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex3_ServerEcho\obj\Debug\net6.0\Ex3_ServerEcho.csproj.CoreCompileInputs.cache
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex3_ServerEcho\obj\Debug\net6.0\Ex3_ServerEcho.dll
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex3_ServerEcho\obj\Debug\net6.0\refint\Ex3_ServerEcho.dll
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex3_ServerEcho\obj\Debug\net6.0\Ex3_ServerEcho.pdb
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex3_ServerEcho\obj\Debug\net6.0\Ex3_ServerEcho.genruntimeconfig.cache
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex3_ServerEcho\obj\Debug\net6.0\ref\Ex3_ServerEcho.dll

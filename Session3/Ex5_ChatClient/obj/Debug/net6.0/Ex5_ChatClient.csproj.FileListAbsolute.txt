@@ -1,0 +1,15 @@
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex5_ChatClient\bin\Debug\net6.0\Ex5_ChatClient.exe
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex5_ChatClient\bin\Debug\net6.0\Ex5_ChatClient.deps.json
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex5_ChatClient\bin\Debug\net6.0\Ex5_ChatClient.runtimeconfig.json
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex5_ChatClient\bin\Debug\net6.0\Ex5_ChatClient.dll
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex5_ChatClient\bin\Debug\net6.0\Ex5_ChatClient.pdb
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex5_ChatClient\obj\Debug\net6.0\Ex5_ChatClient.csproj.AssemblyReference.cache
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex5_ChatClient\obj\Debug\net6.0\Ex5_ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex5_ChatClient\obj\Debug\net6.0\Ex5_ChatClient.AssemblyInfoInputs.cache
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex5_ChatClient\obj\Debug\net6.0\Ex5_ChatClient.AssemblyInfo.cs
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex5_ChatClient\obj\Debug\net6.0\Ex5_ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex5_ChatClient\obj\Debug\net6.0\Ex5_ChatClient.dll
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex5_ChatClient\obj\Debug\net6.0\refint\Ex5_ChatClient.dll
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex5_ChatClient\obj\Debug\net6.0\Ex5_ChatClient.pdb
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex5_ChatClient\obj\Debug\net6.0\Ex5_ChatClient.genruntimeconfig.cache
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex5_ChatClient\obj\Debug\net6.0\ref\Ex5_ChatClient.dll

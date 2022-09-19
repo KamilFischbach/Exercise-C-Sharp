@@ -1,0 +1,15 @@
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex0_ReadingFromConsole\bin\Debug\net6.0\Ex0_ReadingFromConsole.exe
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex0_ReadingFromConsole\bin\Debug\net6.0\Ex0_ReadingFromConsole.deps.json
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex0_ReadingFromConsole\bin\Debug\net6.0\Ex0_ReadingFromConsole.runtimeconfig.json
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex0_ReadingFromConsole\bin\Debug\net6.0\Ex0_ReadingFromConsole.dll
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex0_ReadingFromConsole\bin\Debug\net6.0\Ex0_ReadingFromConsole.pdb
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex0_ReadingFromConsole\obj\Debug\net6.0\Ex0_ReadingFromConsole.csproj.AssemblyReference.cache
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex0_ReadingFromConsole\obj\Debug\net6.0\Ex0_ReadingFromConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex0_ReadingFromConsole\obj\Debug\net6.0\Ex0_ReadingFromConsole.AssemblyInfoInputs.cache
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex0_ReadingFromConsole\obj\Debug\net6.0\Ex0_ReadingFromConsole.AssemblyInfo.cs
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex0_ReadingFromConsole\obj\Debug\net6.0\Ex0_ReadingFromConsole.csproj.CoreCompileInputs.cache
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex0_ReadingFromConsole\obj\Debug\net6.0\Ex0_ReadingFromConsole.dll
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex0_ReadingFromConsole\obj\Debug\net6.0\refint\Ex0_ReadingFromConsole.dll
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex0_ReadingFromConsole\obj\Debug\net6.0\Ex0_ReadingFromConsole.pdb
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex0_ReadingFromConsole\obj\Debug\net6.0\Ex0_ReadingFromConsole.genruntimeconfig.cache
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex0_ReadingFromConsole\obj\Debug\net6.0\ref\Ex0_ReadingFromConsole.dll

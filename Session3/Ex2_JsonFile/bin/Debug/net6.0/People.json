@@ -1,0 +1,41 @@
+[
+  {
+    "f_name": "Kamil",
+    "l_name": "Fischbach",
+    "age": 20,
+    "height": 1.81,
+    "isMarried": false,
+    "sex": "M",
+    "hobbies": [
+      "fishing",
+      "football",
+      " cooking"
+    ]
+  },
+  {
+    "f_name": "Karol",
+    "l_name": "Fischbach",
+    "age": 20,
+    "height": 1.81,
+    "isMarried": false,
+    "sex": "M",
+    "hobbies": [
+      "fishing",
+      "football",
+      " cooking"
+    ]
+  },
+  {
+    "f_name": "Tomasz",
+    "l_name": "Fischbach",
+    "age": 20,
+    "height": 1.81,
+    "isMarried": false,
+    "sex": "M",
+    "hobbies": [
+      "fishing",
+      "football",
+      " cooking"
+    ]
+  }
+]

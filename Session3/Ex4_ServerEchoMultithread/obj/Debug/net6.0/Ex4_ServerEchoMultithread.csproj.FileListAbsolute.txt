@@ -1,0 +1,15 @@
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex4_ServerEchoMultithread\bin\Debug\net6.0\Ex4_ServerEchoMultithread.exe
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex4_ServerEchoMultithread\bin\Debug\net6.0\Ex4_ServerEchoMultithread.deps.json
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex4_ServerEchoMultithread\bin\Debug\net6.0\Ex4_ServerEchoMultithread.runtimeconfig.json
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex4_ServerEchoMultithread\bin\Debug\net6.0\Ex4_ServerEchoMultithread.dll
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex4_ServerEchoMultithread\bin\Debug\net6.0\Ex4_ServerEchoMultithread.pdb
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex4_ServerEchoMultithread\obj\Debug\net6.0\Ex4_ServerEchoMultithread.csproj.AssemblyReference.cache
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex4_ServerEchoMultithread\obj\Debug\net6.0\Ex4_ServerEchoMultithread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex4_ServerEchoMultithread\obj\Debug\net6.0\Ex4_ServerEchoMultithread.AssemblyInfoInputs.cache
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex4_ServerEchoMultithread\obj\Debug\net6.0\Ex4_ServerEchoMultithread.AssemblyInfo.cs
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex4_ServerEchoMultithread\obj\Debug\net6.0\Ex4_ServerEchoMultithread.csproj.CoreCompileInputs.cache
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex4_ServerEchoMultithread\obj\Debug\net6.0\Ex4_ServerEchoMultithread.dll
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex4_ServerEchoMultithread\obj\Debug\net6.0\refint\Ex4_ServerEchoMultithread.dll
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex4_ServerEchoMultithread\obj\Debug\net6.0\Ex4_ServerEchoMultithread.pdb
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex4_ServerEchoMultithread\obj\Debug\net6.0\Ex4_ServerEchoMultithread.genruntimeconfig.cache
+C:\Users\fisch\Documents\Software Engineering\3rd semseter\DNP\DNPModule\Exercises\Session3\Ex4_ServerEchoMultithread\obj\Debug\net6.0\ref\Ex4_ServerEchoMultithread.dll

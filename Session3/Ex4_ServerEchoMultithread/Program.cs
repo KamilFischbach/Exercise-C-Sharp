@@ -23,7 +23,7 @@ static void HandleOneClient(TcpListener listener)
     using NetworkStream stream = client.GetStream();
     
     //read
-    byte[] dataFromClient = new byte[4096];
+    byte[] dataFromClient = new byte[1024];
     int bytesRead = stream.Read(dataFromClient, 0, dataFromClient.Length);
     string s = Encoding.ASCII.GetString(dataFromClient, 0, bytesRead);
     Console.WriteLine(s);
